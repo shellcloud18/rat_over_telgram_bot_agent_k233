@@ -1,4 +1,4 @@
-# Telegram Bot Script
+# Telegram Bot Script Rat For Windows
 
 This script allows you to create a Telegram bot that can receive commands and perform various actions on the target machine. The bot can execute shell commands, receive and upload files, provide the location of the target machine, and more.
 
